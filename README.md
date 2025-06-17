@@ -54,22 +54,12 @@ To run this project locally:
 3. **Open index.html in your browser**
    Or use Live Server if you're using VS Code.
 
-✍️ Author
+---
+
+## ✍️ Author
 Made with ❤️ by Goga Gabelia
-📧 gogagabelia001@gmail.com
 
-**💡 Ideas for Improvement**
+---
 
-⚅ Add the 6th dice face (⚅)
-
-🔊 Add rolling sound effects
-
-🌓 Add dark mode toggle
-
-📱 Make it a mobile app with PWA
-
-⭐ Support
-If you liked this project, please give it a ⭐ on GitHub — it motivates me to keep building!
-
-📜 License
+## 📜 License
 This project is open source and available under the MIT License.
